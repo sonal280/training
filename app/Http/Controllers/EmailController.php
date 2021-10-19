@@ -8,6 +8,6 @@ class EmailController extends Controller
 {
    public function emailSend()
    {
-   		echo "Email send";
+   		echo "string";
    }
 }
