@@ -9,6 +9,6 @@ class EmailController extends Controller
    public function emailSend()
    {
    	
-   		echo "email send";
+   		echo "email send sdsdjh";
    }
 }
