@@ -8,7 +8,7 @@ class EmailController extends Controller
 {
    public function emailSend()
    {
-   	
-   		echo "email send";
+
+   		echo "changes into email controller";
    }
 }
